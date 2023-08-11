@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Colour Changer</string>
+    <item name="layout" type="id" />
+</resources>
